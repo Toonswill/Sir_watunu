@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Sustainable Development Goals (SDGs)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Sustainable Development Goals (SDGs) are a set of 17 global goals established by the United Nations to address various social, economic, and environmental challenges. Here's a brief name and description of each:",
+    url: "https://sdgs.un.org/goals",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Commitment to taking climate actions",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I am deeply committed to climate action, advocating for decarbonization both as an individual and through Tunic AgriEnergy. My efforts involve encouraging people to embrace green initiatives. Furthermore, with Tunic Tree Foundation, I actively contribute by growing trees and advancing technology for effective carbon sequestration.",
+    url: "https://www.linkedin.com/feed/update/urn:li:share:7113118038157144064/",
   },
   {
     title: "My Resume Site",
